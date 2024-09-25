@@ -1,0 +1,4 @@
+﻿  main.c
+F:\vs2022 .program\dian\Project_dian.2-2\Project_dian.2-2\main.c(58,3): warning C4013: “gets”未定义；假设外部返回 int
+F:\vs2022 .program\dian\Project_dian.2-2\Project_dian.2-2\main.c(140,4): warning C4102: “gt1”: 未引用的标签
+  Project_dian.2-2.vcxproj -> F:\vs2022 .program\dian\Project_dian.2-2\x64\Debug\Project_dian.2-2.exe
